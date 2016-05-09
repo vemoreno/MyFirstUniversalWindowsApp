@@ -1,0 +1,1 @@
+C:\Users\Víctor\Documents\uwp examples\MyFirstUniversalApp\MyFirstUniversalApp_\MyFirstUniversalApp_.csproj;arm
