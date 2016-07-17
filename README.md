@@ -1,4 +1,4 @@
-# Overview - My first universal windows App
+# Overview - My first universal windows app
 This code will help you to implement your first Universal Windows App on Windows 10 sending and receiving data from SQL Azure.
 
 # About the project
