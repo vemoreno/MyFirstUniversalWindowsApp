@@ -21,7 +21,7 @@ In this demo, you will learn how to develop your first universal windows app for
 # Additional info
 
 If you are interested in how the project take place, you can show all the process through SildeShare (Spanish):
-http://www.slideshare.net/zemoreno1/mi-primera-aplicacin-para-windows-10
+http://bit.ly/2jyTSh8
 
-or GithHub (English):
+or here at GithHub (English):
 http://bit.ly/2irwwgu
