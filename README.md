@@ -18,7 +18,10 @@ In this demo, you will learn how to develop your first universal windows app for
 - One Microsoft Azure account.
 - Visual Studio 2015.
 
-# Comments
+# Additional info
 
-If you are interested in how the project take place, you can show all the process through SildeShare here:
+If you are interested in how the project take place, you can show all the process through SildeShare (Spanish):
 http://www.slideshare.net/zemoreno1/mi-primera-aplicacin-para-windows-10
+
+or GithHub (English):
+https://github.com/vemoreno/MyFirstUniversalWindowsApp/blob/master/My%20first%20universal%20windows%20app%20for%20Windows%2010.pdf
