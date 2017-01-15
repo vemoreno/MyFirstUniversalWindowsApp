@@ -24,4 +24,4 @@ If you are interested in how the project take place, you can show all the proces
 http://www.slideshare.net/zemoreno1/mi-primera-aplicacin-para-windows-10
 
 or GithHub (English):
-https://github.com/vemoreno/MyFirstUniversalWindowsApp/blob/master/My%20first%20universal%20windows%20app%20for%20Windows%2010.pdf
+http://bit.ly/2irwwgu
